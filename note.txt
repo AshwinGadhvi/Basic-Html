@@ -1,0 +1,21 @@
+rules for infix to postfix
+
+1.input	2.stack	3.output
+
+0.insert # at end of expresetion.
+1.if oprand comes from input put it into output;
+2.if '(','[' comes from input push it into stack; 
+3.if ')',']' comes from input poped and output untill (,[ comes to stack;
+4.if # comes from input poped and output untill stack gets empty;
+5.if oprator comes from the input check
+priority of input oprator with (pip)priority of top of stack oprator(pst);
+if(pip>pst)
+{
+	push(pip)into stack;
+}
+else
+{
+	pop and output untill
+	pip>pst;			
+}
+Note:priority '(' in stack is lowest;  

@@ -1,0 +1,5 @@
+to copy the content
+read char from one file and write in onther file
+read 10 number from user and write the 10 number in the file and read it.
+wac to file using fscanf and fprint(formated);
+odd even (3 file);odd.txt==even.txt;

@@ -1,0 +1,33 @@
+
+==> project title : Treding
+
+==> back end : sql server management
+
+==> front end : Visual Studio 2017
+
+==> project partner : Hem Gajjar
+
+==> role of project partner : Back end Expert
+
+===============>data dictionary<==============
+
+	=)master 
+	
+	1.Customer master
+	2.Supplyer master
+	3.Payment  master
+	4.Order	   master
+	5.Invoice  master
+	
+
+	=)table_name	
+	=)description
+	=)name	constraint	null/not null	data type 	remarks
+
+dfd
+
+context level 
+
+one level
+
+	

@@ -1,0 +1,36 @@
+ 
+syndicate cup
+-------------
+entery fee=0$
+price pool=1000$
+
+
+total 30 teams
+group a=15 teams 
+group b=15 teams
+
+total 7 match for both group
+
+evevry day one match for each group
+
+3 earangle
+3 miramar
+1 vikendi
+
+ match time 
+
+9:00 pm
+10:00 pm
+
+from every group top 9 teams will qualify out of 15 teams 
+in final total five match and top 3 will be winner
+
+price
+----
+#1.400$
+#2.300$
+#3.200$
+mvp will be choosen from top 3 price=100$ 
+
+live stream on @gamerghost.
+============***********=============

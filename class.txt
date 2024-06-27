@@ -1,0 +1,45 @@
+class student
+{
+	private:
+	int no;
+	float per;
+	public:
+	void input(int p,int q);
+	{
+		no=p;
+		per=q;
+	}
+	void display();
+};
+void student::display()
+{
+	cout<<"roll number is"<<no<<endl;
+	cout<<"Per is "<<per;
+}
+
+int main()
+{
+	student s1,s2;
+	s1.input(23,75.5);
+	s2.input(2,71.5);
+	cout<<"Detaile of first student::"<<endl;
+	s1.display();
+	cout<<"DEtaile of second student:";
+	s2.display();
+	getch();
+	return 0;
+}
+
+
+
+1.class employe
+->id
+->name
+->slalry
+->data read & display
+
+1.class bank
+->bank id
+->branch name
+->bank amount
+->data read & display

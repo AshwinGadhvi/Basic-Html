@@ -1,0 +1,10 @@
+Pending work
+------------
+1.WDT     14
+2.ADBMS   13
+3.VB.NET  10
+4.CN      16
+____________
+TOTAL     53
+
+WORK OF HOURS 4
